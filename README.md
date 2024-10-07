@@ -1,15 +1,11 @@
 ### Thao Pham | Berea College 2026 | Computer Science and Mathematics Major 👋
 
 ## ✨ About me:
-- Currently pursuing a bachelor's degree in Computer & Information Science and Mathematics at Berea College (Class of 2026).
-- Passionate about solving real-world problems with emerging technologies. Areas of interest: Machine Learning (Large Language Models, Image Processing, etc.), Open Source Software Engineering. 
-- Excited to gain more opportunities to do research projects/internship programs related to my interests. I am also open to conversations related to human-AI interactions, AI Ethics, AI sustainability, and the future of technology.
+- I am interested in opportunities to learn more about AI Safety/Alignment. One of my research projects at Vanderbilt focused on mitigating biases in language models' cognition through counterfactual prompting and chain-of-thought reasoning. I want to further this research on the cognitive processes of language models—how they "think" and respond to prompts. I am open to suggestions for my research questions/proposals. 
+- I am also interested in evals. I am still very new to evals and want to get to know more perspectives on this research area. Open to projects/research related to evals.
+- I also worked as an OSS developer for a [BIM(Building Project Management)-server project](https://github.com/opensourceBIM/), maintaining and expanding the database for storing and managing IFC files. I have been a frequent contributor to the OS community for about a year and a half now, continuing from my first OS contribution - [Runestone Academy](https://github.com/RunestoneInteractive).
 
-## ✨ I am currently working on:
-- Designing an experiment to test fan effects on Large Language Models at Vanderbilt University. Learn more about this research [here](https://github.com/thaopham03/evaluating_fan_effects_in_large_language_models).
-- Contributing to Open Source BIMserver (Building Information Model Server) at [ZAFT Dresden - Centre for Applied Research and Technology at Dresden, University of Applied Sciences](https://www.zaft-dresden.de/).
-
-## ✨ My past projects:
+## ✨ Projects:
 - Golang Compiler using Python PLY and YACC. [GitHub Repo](https://github.com/thaopham03/Go-compiler)
 - Land Feature Convolutional Neural Network. [GitHub Repo](https://github.com/hoerstl/LandFeatureANN)
 - Open Source Textbooks for Runestone Academy. [GitHub Repo](https://github.com/thaopham03/opensource)
@@ -19,9 +15,9 @@
     <img src="https://skillicons.dev/icons?i=python,cpp,java,html,git,docker,postgres,linux&perline=14" />
 </a>
 
-## ✨ Find me on:
+## ✨ Contact:
 
 - [LinkedIn](https://www.linkedin.com/in/thaominhtpham/) 
 - [School Email](mailto:phamt2@berea.edu)
 - [Personal Email](mailto:phamthiminhthao0310@gmail.com)
-- [Medium](https://medium.com/@thaopham03)
+- [Google Scholar](https://scholar.google.com/citations?user=FDQMwi0AAAAJ&hl=en)
