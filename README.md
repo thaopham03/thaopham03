@@ -1,9 +1,9 @@
-### Thao Pham | Berea College 2026 | Computer Science and Mathematics Major 👋
+### CompSci & Math @ Berea College 2026
 
 ## ✨ About me:
-- I am interested in opportunities to learn more about AI Safety/Alignment. One of my research projects at Vanderbilt focused on mitigating biases in language models' cognition through counterfactual prompting and chain-of-thought reasoning. I want to further this research on the cognitive processes of language models—how they "think" and respond to prompts. I am open to suggestions for my research questions/proposals. 
-- I am also interested in evals. I am still very new to evals and want to get to know more perspectives on this research area. Open to projects/research related to evals.
-- I also worked as an OSS developer for a [BIM(Building Project Management)-server project](https://github.com/opensourceBIM/), maintaining and expanding the database for storing and managing IFC files. I have been a frequent contributor to the OS community for about a year and a half now, continuing from my first OS contribution - [Runestone Academy](https://github.com/RunestoneInteractive).
+- I research the risks and robustness of large language models (LLMs), focusing on deceptive alignment and evaluation benchmarks. Currently, I'm deepening my understanding of AI safety and x-risk through the AISF Alignment course by BlueDot Impact, as I believe AI safety is the most critical challenge of our time.
+- As a passionate OSS contributor, my previous OSS contribution includes BIMserver and Runestone Academy. Besides, I am always looking for opportunities to become a community builder, especially around accessible AI safety education for the Global South.
+- Outside of work, I am a Rubik’s Cube and Weiqi enthusiast. Sometimes, you'll find me hiking the mountains in the Appalachia or the mesmerizing valley of Andorra.
 
 ## ✨ Projects:
 - Golang Compiler using Python PLY and YACC. [GitHub Repo](https://github.com/thaopham03/Go-compiler)
